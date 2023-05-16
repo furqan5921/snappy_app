@@ -1,7 +1,7 @@
 
 
 
-* [Click Here](https://fitfinity.vercel.app/) to view the deployed website.
+* [Click Here](https://snappy-pied.vercel.app/) to view the deployed website.
  <p align="center"><img  width="200" src="https://i.imgur.com/hi5cTt5.png"/img> </p>
 <p>
 This solo project showcases my ability to independently conceptualize, develop, and deliver a real-time chat application, employing cutting-edge technologies and emphasizing a user-centric approach to communication.
