@@ -33,8 +33,6 @@ This solo project showcases my ability to independently conceptualize, develop, 
 
  - ### Other Tools and Libraries 
    * NPM
-   * React Icons
-   * SMTP for sending email
    * Git
 
 
