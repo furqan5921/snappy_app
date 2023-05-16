@@ -63,4 +63,4 @@ __
 
 
    - ### Chat
-<img src="blob:https://imgur.com/78088818-5f2f-4c97-9e3d-245a56c10dab" alt="plans1" />
+<img src="https://i.imgur.com/K9Hlp30.png" alt="plans1" />
