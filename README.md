@@ -47,7 +47,7 @@ __
 
 
    - ### Sign up 
-<img src="blob:https://imgur.com/d1d22e54-3b79-4315-8660-9a2bc10ef4b3" alt="singup" />
+<img src="https://imgur.com/lb3zZCe" alt="signup" />
 
 
 
